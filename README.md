@@ -13,7 +13,7 @@ Our joint semantic segmentation and depth estimation algorithm demo: </br>
 The related publications from this line of research is listed below.  
 
 - CASENet: Deep Category-Aware Semantic Edge Detection </br>
-  Zhiding Yu, Chen Feng, Ming-Yu Liu, Srikumar Ramalingam </br>
+  Zhiding Yu, Chen Feng, Ming-Yu Liu, Srikumar Ramalingam, Teng-Yok Lee </br>
   Conference on Computer Vision and Pattern Recognition (CVPR) (Spotlight), 2017, Honolulu, Hawaii,  
 
 - Gaussian Conditional Random Field Network for Semantic Segmentation </br>
